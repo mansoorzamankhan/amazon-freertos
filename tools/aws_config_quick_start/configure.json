@@ -1,7 +1,7 @@
 {
     "afr_source_dir":"../..",
-    "thing_name":"$thing_name",
-    "wifi_ssid":"$wifi_ssid",
-    "wifi_password":"$wifi_password",
-    "wifi_security":"$wifi_security"
+    "thing_name":"Ev_OTA_User",
+    "wifi_ssid":"Linksys",
+    "wifi_password":"devo12121",
+    "wifi_security":"eWiFiSecurityWPA2"
 }
